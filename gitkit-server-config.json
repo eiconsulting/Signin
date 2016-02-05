@@ -1,0 +1,8 @@
+{
+  "clientId": "638305197794-qbf5g7e0l53d14n2p1gk19c0mufbflt2.apps.googleusercontent.com",
+  "projectId": "master-works-121210",
+  "serviceAccountEmail": "service@master-works-121210.iam.gserviceaccount.com",
+  "serviceAccountPrivateKeyFile": "/Signin/SignIn-be4b6057a356.p12",
+  "widgetUrl": "https://www.luludragonfly.com/signin",
+  "cookieName": "gtoken"
+}
